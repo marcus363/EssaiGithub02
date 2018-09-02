@@ -4,18 +4,28 @@ body {
     margin: 0px;
 }
 .moi01 {
-    width: 100% ;
+    width: 1603px;
+    height: 759px;
+    position: relative;
+
+
 }
 
+
+.fleche {
+    position: absolute;
+    left: 28vw;
+    top:11vw;
+    transform: rotate(-30deg);
+    /*color : white;*/
+
+}
 .basDePage {
-    background-size: cover;
     width: 100% ;
     height: 5vw;
 }
-.image04 {
-
-}
 .signature {
-    font-size: 5vw;
+    padding: 1.5vw;
+    font-size: 2vw;
     text-align: center;
 }
